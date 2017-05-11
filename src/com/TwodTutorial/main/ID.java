@@ -4,5 +4,5 @@ package com.TwodTutorial.main;
 public enum ID {
 
 		Player(),
-		Enemy();
+		BasicEnemy();
 }
